@@ -1,0 +1,5 @@
+{
+  "name": "C++ OOP Firewall Lab",
+  "description": "A high-performance simulation and code generation suite for C++ Object-Oriented firewalls, featuring real-time packet inspection visualization, rule management, and AI-assisted security analysis.",
+  "requestFramePermissions": []
+}
